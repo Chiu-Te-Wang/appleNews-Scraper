@@ -1,0 +1,28 @@
+{
+  "name": "hw4",
+  "version": "0.0.1",
+  "description": "web Vews scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chiu-Te-Wang/News-Scraper-beta"
+  },
+  "keywords": [
+    "News",
+    "Scraper"
+  ],
+  "author": "Chiu-Te-Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chiu-Te-Wang/News-Scraper-beta/issues"
+  },
+  "homepage": "https://github.com/Chiu-Te-Wang/News-Scraper-beta",
+  "dependencies": {
+    "express": "^3.5.3",
+    "cheerio": "^0.16.0",
+    "request": "^2.34.0"
+  }
+}
