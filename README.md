@@ -1,6 +1,7 @@
-Project Name:
+appleNews Scraper
+====================
+
 	
-	News Scraper beta
 
 time : 2014_05_09
 
